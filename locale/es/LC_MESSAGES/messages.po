@@ -309,7 +309,7 @@ msgstr "Se produjo un error del servidor. Inténtalo de nuevo pasados unos minut
 
 #: /templates/detail/main.html:66
 msgid "Updates"
-msgstr ""
+msgstr "Actualizaciones"
 
 #: /templates/detail/main.html:72 /templates/detail/main.html:89
 msgid "Less&hellip;"
@@ -321,7 +321,7 @@ msgstr "Más&hellip;"
 
 #: /templates/detail/main.html:83
 msgid "Description"
-msgstr ""
+msgstr "Descripción"
 
 #: /templates/detail/main.html:92
 msgid "Version"
@@ -389,7 +389,7 @@ msgstr "Puntuación del contenido"
 
 #: /templates/detail/main.html:288
 msgid "Content Rating Details"
-msgstr ""
+msgstr "Detalles sobre la puntuación del contenido"
 
 #: /templates/detail/privacy.html:5
 msgid "Back to app"
@@ -719,7 +719,7 @@ msgstr "Venezuela"
 
 #: /media/js/settings.js:91
 msgid "No region in search"
-msgstr ""
+msgstr "Ninguna región en búsqueda"
 
 #. {n} is the number of characters left.
 #: /media/js/utils.js:28
